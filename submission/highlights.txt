@@ -1,0 +1,6 @@
+Cheap attention can distort beliefs about costly commitment.
+Sender cost cutoffs generate the attention-count likelihood.
+Distorted inference changes choices on exact signal histories.
+Two-sided participation amplifies acceptance shocks.
+A fold condition identifies loss of the high-liquidity equilibrium.
+
