@@ -1,5 +1,7 @@
 # Cheap Attention, Costly Commitment
 
+[![CI](https://github.com/sd7718-byte/cross-route-matching-market/actions/workflows/ci.yml/badge.svg)](https://github.com/sd7718-byte/cross-route-matching-market/actions/workflows/ci.yml)
+
 This folder contains an anonymous theory paper on cross-route inference in a
 two-period matching market with endogenous short-term offers and two-sided
 long-term participation.
@@ -37,7 +39,7 @@ latexmk -pdf main.tex
 To run the machine-checked proof audit from the repository root:
 
 ```bash
-lake env lean cross-route-matching-paper/formal/ProofAudit.lean
+lake env lean formal/ProofAudit.lean
 ```
 
 The current author field is anonymized for review. Replace `Anonymous` only in

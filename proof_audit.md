@@ -13,7 +13,7 @@ Mathlib v4.29.0. The kernel-checked lemmas cover:
 Re-run from the repository root:
 
 ```bash
-lake env lean cross-route-matching-paper/formal/ProofAudit.lean
+lake env lean formal/ProofAudit.lean
 ```
 
 ## Numerical scope
@@ -24,7 +24,7 @@ stability classification of each equilibrium, and the four fold conditions in
 the numerical illustration.
 
 ```bash
-python3 cross-route-matching-paper/replicate.py
+python3 replicate.py
 ```
 
 ## Analytic scope not formalized
@@ -43,4 +43,3 @@ External reader: `[NAME]`
 Date reviewed: `[DATE]`  
 Disposition: `[PASS / REVISE]`  
 Notes: `[NOTES]`
-
