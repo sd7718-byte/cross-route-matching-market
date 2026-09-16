@@ -42,8 +42,3 @@ To run the machine-checked proof audit from the repository root:
 lake env lean formal/ProofAudit.lean
 ```
 
-The current author field is anonymized for review. Replace `Anonymous` only in
-a non-blinded submission copy. The bracketed fields in `submission/` require
-the author's identity, affiliation, funding, conflict, and acknowledgment
-information. A human theory reader should still independently review the full
-proofs before journal submission.
